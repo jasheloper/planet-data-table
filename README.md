@@ -1,4 +1,4 @@
-# 100DaysOfCode - HTML
+# 100DaysOfCode - HTML Tables & Accessibility
 
 ### MDN skill assessment - Structuring Planet Data
 <br />
