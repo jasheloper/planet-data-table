@@ -1,6 +1,6 @@
-# 100DaysOfCode - HTML Layout
+# 100DaysOfCode - HTML Tables & Accessibility
 
-### MDN skill assessment - HTML Tables & Accessibility
+### MDN skill assessment - Structuring Planet Data
 <br />
 
 Video Link:
