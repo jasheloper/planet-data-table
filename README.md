@@ -11,7 +11,7 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Moz
 
 <br />
 
-### Video Link:
+### Video Link (me doing the project):
 
 https://youtu.be/VT-Y-rMgH3w
 
